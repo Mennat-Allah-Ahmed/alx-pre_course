@@ -1,2 +1,1 @@
-My sec readme
-editing is done here till now
+editing this file is done here till now
